@@ -1,0 +1,22 @@
+{
+    "loginPage": {
+      "usernameField": "input[name='username']",
+      "passwordField": "input[name='password']",
+      "submitButton": "button[type='submit']",
+      "errorMessage": ".error-message"
+    },
+    "dashboardPage": {
+      "welcomeMessage": ".welcome-banner",
+      "invoicesTab": "a[href='/invoices']",
+      "logoutButton": "#logout"
+    },
+    "invoicePage": {
+      "netPowerInput": "#netPowerGenerated",
+      "totalConsumptionInput": "#totalConsumption",
+      "marketPriceInput": "#marketPrice",
+      "submitButton": "button[type='submit']",
+      "successMessage": ".success-message",
+      "formErrors": ".validation-error"
+    }
+  }
+  
