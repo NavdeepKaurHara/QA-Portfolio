@@ -1,0 +1,21 @@
+{
+    "validLogin": {
+      "username": "assetManager",
+      "password": "securePass123"
+    },
+    "invalidLogin": {
+      "username": "unknownUser",
+      "password": "wrongPassword"
+    },
+    "invoice": {
+      "valid": {
+        "netPowerGenerated": 500,
+        "totalConsumption": 1000,
+        "marketPrice": 0.15
+      },
+      "invalid": {
+        "netPowerGenerated": 500
+      }
+    }
+  }
+  
