@@ -1,0 +1,38 @@
+
+{
+  "name": "cypresstests_invoicingmodule",
+  "version": "1.0.0",
+  "description": "Sample tests for portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:run": "cypress run",
+    "test:headless": "cypress run --headless",
+    "test:ci": "cypress run --browser chrome"
+  },
+  "dependencies": {
+    "faker": "^6.6.8"
+  },
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "eslint": "^8.52.0",
+    "eslint-plugin-cypress": "^2.13.2"
+  },
+  "cypress": {
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "baseUrl": "http://localhost:3000",//app url
+    "video": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NavdeepKaurHara/QA-Portfolio"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "end-to-end"
+  ],
+  "author": "Navdeep_k_Hara",
+  "license": "ISC"
+}
