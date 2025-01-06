@@ -1,5 +1,4 @@
 import testData from '../fixtures/testData.json';
-import locators from '../fixtures/locators.json';
 import { formatInvoiceData, verifyResponseStatus, verifyResponseBody } from '../support/helper';
 
 describe('API Tests for Invoicing Module', () => {
