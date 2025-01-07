@@ -15,4 +15,11 @@ Here, you will find a comprehensive collection of artifacts and examples that re
 🤖 Automation Tests: Samples of automation scripts developed using tools like Cypress, Selenium, and Mocha with Chai. These scripts reflect my proficiency in building scalable, maintainable automation frameworks and integrating them into CI/CD pipelines.
 All the artifacts are hosted on my GitHub repository 🖥️, offering a glimpse into my structured approach, attention to detail, and technical acumen. Through these examples, I aim to demonstrate my ability to deliver high-quality software solutions by employing industry best practices in testing. 🌟
 
+🐛 Bug Reports:
+In addition to testing documentation and automation, I have identified and documented real-world bugs to demonstrate my analytical and reporting skills.Here's an example:
+
+Bug Title: Easy Apply Submission Button Not Visible at 100% Zoom on LinkedIn Webpage
+Summary: At 100% zoom, the vertical scrollbar disappears on the LinkedIn Easy Apply form, making it impossible to access the Submit button.
+Details of this bug, including a step-by-step reproduction guide, severity assessment, and screenshots/videos, are available in my GitHub repository.
+
 Feel free to explore, and I look forward to connecting with you to discuss how my skills and experience align with your needs! 😊
